@@ -1,0 +1,55 @@
+.elementor-342 .elementor-element.elementor-element-7447b2a .wpr-lottie-animations svg {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.elementor-342 .elementor-element.elementor-element-7447b2a .wpr-lottie-animations {
+    width: 50% !important;
+    height: 50% !important;
+    transform: rotate(0deg);
+    transition-duration: 0.3s;
+}
+
+.elementor-342 .elementor-element.elementor-element-7447b2a .wpr-lottie-animations-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elementor-342 .elementor-element.elementor-element-75c81af {
+    --grid-template-columns: repeat(0, auto);
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-342 .elementor-element.elementor-element-75c81af .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-342 .elementor-element.elementor-element-37faea6 {
+    text-align: center;
+}
+
+.elementor-342 .elementor-element.elementor-element-37faea6 .elementor-heading-title {
+    color: #B1AAAA;
+    font-family: "Adamina", Sans-serif;
+}
+
+body.elementor-page-342:not(.elementor-motion-effects-element-type-background),
+body.elementor-page-342>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #202025;
+}
+
+@media(max-width:1024px) {
+    .elementor-342 .elementor-element.elementor-element-7447b2a .wpr-lottie-animations svg {
+        width: 100% !important;
+        height: 100% !important;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-342 .elementor-element.elementor-element-7447b2a .wpr-lottie-animations svg {
+        width: 100% !important;
+        height: 100% !important;
+    }
+}
